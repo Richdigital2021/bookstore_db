@@ -42,9 +42,12 @@ The project covers:
 
 ```bash
 bookstore-db/
+
 ├── schema image # The diagram of the schema
-├── answers.sql #All the sql scripts for the project
-└── README.md # Project documentation
+├── README.md   # Project documentation
+├── schema.sql   # All CREATE TABLE statements
+├── seed_data.sql # Sample data inserts
+└── test_queries.sql  # Helpful SELECT queries
 ```
 
 ---
